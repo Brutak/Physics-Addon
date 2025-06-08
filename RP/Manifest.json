@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Physics Addon",
+    "description": "Made By Dev2025",
+    "uuid": "d9b6f1d5-8d30-4d0f-b01a-9cb5396d933b",
+    "version": [
+      2,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Made By Dev2025",
+      "type": "resources",
+      "uuid": "f7e8a8e9-d9a4-4b45-9d7f-df9adf8b35ad",
+      "version": [
+        2,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Dev2025"
+    ],
+    "url": "https://github.com/Brutak/Physics-Addon"
+  }
+}
